@@ -97,18 +97,3 @@ Large Language Model (LLM) engineering is dominated by Big Tech companies with v
 - **Evaluation & Monitoring**: Continuous evaluation using benchmark datasets to ensure model reliability.
 
 ---
-
-## Literature Survey
-
-- **Supervised Fine-Tuning (SFT)**: Effective for adapting pretrained LLMs for tasks like instruction following and code generation.
-- **Knowledge Distillation**: Transfers capabilities from larger teacher models to smaller student models.
-- **Multimodal Integration**: Models like LLaVA and Phi 4 demonstrate modularity by attaching vision/audio encoders to text LLMs.
-- **Quantization**: 4-bit and 8-bit quantization reduces memory and compute needs for edge deployment.
-- **Tool Calling**: Enables LLMs to interact with external tools and APIs for agentic capabilities.
-- **Reasoning Abilities**: Techniques like chain-of-thought prompting and program-aided reasoning improve logical capabilities.
-- **Open-Source LLMs**: Diverse architectures influence fine-tuning outcomes.
-- **Edge Deployment**: Quantization and efficient inference libraries make edge deployment feasible.
-
----
-
-## 
